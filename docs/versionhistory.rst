@@ -30,6 +30,9 @@ This library adheres to `Semantic Versioning 2.0 <http://semver.org/>`_.
   legitimately ``None``
   (`#773 <https://github.com/agronholm/anyio/issues/773>`_; PR by @AmirF194)
 
+- Fixed the custom typed attribute provider documentation examples
+  (`#1334 <https://github.com/agronholm/anyio/pull/1334>`_; PR by @agammann)
+
 **4.15.1**
 
 - Implemented a compatibility fix for supporting direct access of ``anyio.*`` submodules
